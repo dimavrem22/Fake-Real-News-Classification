@@ -1,4 +1,4 @@
-# Fake-Real-News-Classification
+# Fake/Real News Classification
 
 <h2> About Project </h2>
 
