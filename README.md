@@ -18,7 +18,7 @@ The dataset of fake and real news was obtained from the ISOT Research Lab at the
 
 - Sentiment Analysis (positive, negative, neutral, and compound) on title and body, separately. 
 
-- TD-IDF on title and body separately
+- TD-IDF on title and body, separately.
 
 </p>
 
