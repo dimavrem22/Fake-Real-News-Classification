@@ -38,9 +38,9 @@ The dataset of fake and real news was obtained from the ISOT Research Lab at the
 
 <h2> Results</h2>
 
-<img src="Resources/accuracy.png" width="800"><br/>
+<img src="Resources/accuracy.png" width="600"><br/>
 
-<img src="Resources/results.png" width="800"><br/>
+<img src="Resources/results.png" width="600"><br/>
 
 <h2> References </h2>
 
